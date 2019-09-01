@@ -1,0 +1,92 @@
+body {
+	background-image: linear-gradient(to top right, #2981db,#200);
+	height: 100vh;
+	text-align: center;
+	color: black;
+}
+
+form {
+	background-image: linear-gradient(to top right, #2981, #fff);
+	text-align: center;
+	border-radius: 30px;
+	height: 300px;
+}
+
+label {
+	margin-top: 15px;
+	color: white;
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+label a {
+	color: yellow;
+}
+
+.tit {
+	background-color: blue;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: none;
+	width: 683.5px;
+	margin-left: -15px;
+	height: 40px;
+}
+.radio_button {
+	margin-left: 40px;
+}
+
+.answer {
+	border-right: none;
+	border-left: none;
+}
+
+.butn {
+	background-color: #2481bf;
+	width: 250px;
+	border-radius: 30px;
+	height: 50px;
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+#mark-section{
+	width: 100%;
+	height: 100vh;
+	padding-bottom: 80px;
+}
+
+.result-div{
+	width: 80%;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.result-title-div{
+	padding: 30px 0;
+	text-align: center;
+}
+
+.result-title-div h2{
+	font-size: 40px;
+	color: #2481bf;
+}
+
+.all-results table{
+	background: rgba(255,255,255,0.5);
+}
+
+.all-results table tbody {
+	text-align: left;
+}
+
+.center{
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+}
+
+thead {
+	background-color: red;
+}
